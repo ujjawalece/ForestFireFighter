@@ -34,6 +34,7 @@ Then the images sent by the cameras willl be processed and searched for any fire
 ## Conclusion:
 
 
+
 ## References:
 
 * https://www.youtube.com/watch?v=h8-XLlTnAtY
