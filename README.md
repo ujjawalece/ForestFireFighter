@@ -26,6 +26,19 @@ Basicallly we have to set cameras at different positions in forest(normally at h
 
 ![forest camera](https://github.com/ujjawalece/ForestFireFighter/blob/master/WhatsApp%20Image%202020-06-05%20at%209.49.15%20AM.jpeg)
 
-Then the images sent by the cameras willl be processed and searched for any fire in it by using opencv. And if fire is detected then a alarm is activated and a fully automatic robot which can extinguish fire will be sent at the spot again we will use opencv and image processing to navigate our robot to the spot. 
+Then the images sent by the cameras willl be processed and searched for any fire in it by using opencv. And if fire is detected then a alarm is activated and a fully automatic robot which can extinguish fire will be sent at the spot. Again we will use opencv and image processing to navigate our robot to the spot. In this way our automatic system works.
+
+## Key Concepts used:
+
+
+## Conclusion:
+
+
+## References:
+
+* https://www.youtube.com/watch?v=h8-XLlTnAtY
+* https://www.researchgate.net/publication/330827730_Development_of_Fire_Fighting_Robot_QRob
+* https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/
+* http://opencv-python tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html
 
 
