@@ -15,6 +15,8 @@ We should also have some system which will automatically extinguish fire as it m
 
 ## Approach:
 
+![camera](https://github.com/ujjawalece/ForestFireFighter/blob/master/WhatsApp%20Image%202020-06-05%20at%209.49.34%20AM.jpeg)
+
 As stated above we have to monitor the whole forest 24*7. So, the best way to do this is to use **cameras**. And when it comes to detect something from images the firt thing which come in our mind is **openCV**.
 
 ![forest camera](https://github.com/ujjawalece/ForestFireFighter/blob/master/WhatsApp%20Image%202020-06-05%20at%209.49.15%20AM.jpeg)
