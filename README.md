@@ -15,12 +15,17 @@ We should also have some system which will automatically extinguish fire as it m
 
 ## Approach:
 
-![camera](https://github.com/ujjawalece/ForestFireFighter/blob/master/WhatsApp%20Image%202020-06-05%20at%209.49.34%20AM.jpeg)
+
 
 As stated above we have to monitor the whole forest 24*7. So, the best way to do this is to use **cameras**. And when it comes to detect something from images the firt thing which come in our mind is **openCV**.
 
+![camera](https://github.com/ujjawalece/ForestFireFighter/blob/master/WhatsApp%20Image%202020-06-05%20at%209.49.34%20AM.jpeg)
+
+
+Basicallly we have to set cameras at different positions in forest(normally at high altitudes to get a bettrer view) in such a way that it cover whole forest. A single camera will cover some particular area of forest and in this way by using multiple cameras we can cover whole forest.
+
 ![forest camera](https://github.com/ujjawalece/ForestFireFighter/blob/master/WhatsApp%20Image%202020-06-05%20at%209.49.15%20AM.jpeg)
 
-Basicallly we have to set cameras at different positions in forest in such a way that it cover whole forest. Then the image sent by the camera willl be processed and searched for any fire in it by using opencv. And if fire is detected then
+Then the images sent by the cameras willl be processed and searched for any fire in it by using opencv. And if fire is detected then a alarm is activated and a fully automatic robot which can extinguish fire will be sent at the spot again we will use opencv and image processing to navigate our robot to the spot. 
 
 
