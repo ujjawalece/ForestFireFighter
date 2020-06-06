@@ -7,7 +7,7 @@ Fire incident is a disaster that can potentially cause the loss of life, propert
 
 ## Problem description:
 
-In most of the forest fire the fire emerges sommewhere inside a dense forest and we are unaware about the fire, And whnen we come to knoe it is very late as fire had spread very much nd it become very difficult to control it.
+In most of the forest fire the fire emerges somewhere inside a dense forest and we are unaware about the fire, And when we come to know it is very late as fire had spread very much and it become very difficult to control it.
 **So, basically our aim is to make such a fire extinguishing system which can detect the fire at very early stage and then we can extinguish it.**
 For this we have to make a system which will monitor a whole forest 24*7 and when any unfortunate thing happens, it will alert us.
 We should also have some system which will automatically extinguish fire as it might happen that human fire fighters are unable to reach at that spot in time due to some circumstances.
@@ -32,6 +32,9 @@ Then the images sent by the cameras willl be processed and searched for any fire
 
 
 ## Conclusion:
+
+This project can we broadly divided into two parts, first one is detecting fire and second one is an automatic system which will extinguish it.
+For detecting fire we use opencv, which is a very good approach, but yet there are some limitations in this as we use are using cameras 
 
 
 
