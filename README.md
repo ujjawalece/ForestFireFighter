@@ -32,7 +32,7 @@ Then the images sent by the cameras willl be processed and searched for any fire
 
 ### Detecting Fire-
 
-* Firstly we will have to detect fire. So, for detecting fire we will take input from camera and process that image. In our project we have placed the camera at a high place and we are getting top view of our forest. Fire contour will we something like below shown in photo.
+* Firstly we have to detect fire. So, for detecting fire we will take input from camera and process that image. In our project we have placed the camera at a high place and we are getting top view of our forest. Fire contour will we something like below shown in photo.
 
 ![fire contour](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire%20Contour%20Image.jpeg)
 
@@ -50,10 +50,20 @@ Then the images sent by the cameras willl be processed and searched for any fire
 
 * We already have the cordinates of firespot(s) now we want to navigate our drone to that spot. For navigating drone we should know the cordinates of drne also hich can we easily done by using GPS devices. Once we have cordinates of both drone and fire spot our drone can navigate to the required spot.
 
-**Note-** For our simulating purpose we have find a vector which is pointig toward firespot from drone postion. And then have we applied a force in that direction until our drone reached above fire spot.
+**Note-** For our simulating purpose we have find a vector which is pointig toward firespot from drone postion. And then have we applied a force in that direction until our drone reached above fire spot. But in real life some different concepts of aerodynamic is used to fly a drone and it is not a hard job to do that.
 
+* Once our drone reached the fire spot it will **switch on its fire extinguishing system**(it will throw water or some fire extinguishing substances on fire spot).
+
+* After extinguishing fire from that spot it will navigate to the other fire spot(if present) by using the same way as stated above.
+
+#### Above whole process is shown below with the help of a flowchart-
 
 ![flowchart](https://github.com/ujjawalece/ForestFireFighter/blob/master/Flow%20chart.png)
+
+* You can see whole **python code** of our project [here]().
+* Some video of our project simulation are attached below-
+* [**Video_1**]()
+* [**Video_2**(quick view)]
 
 
 ## Conclusion:
