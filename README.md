@@ -82,5 +82,5 @@ Yet, our system is quite efficient for small fire or to extinguish fire at begni
 * https://www.researchgate.net/publication/330827730_Development_of_Fire_Fighting_Robot_QRob
 * https://www.geeksforgeeks.org/find-and-draw-contours-using-opencv-python/
 * http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html
-
+* https://en.m.wikipedia.org/wiki/Wildfire
 
