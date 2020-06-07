@@ -1,6 +1,9 @@
 # ForestFireFighter(FFF)
 
-## Ujjawal Agrawal    Prakhar Agrawal    Ujjawal Sharma
+## * Ujjawal Agrawal
+## * Prakhar Agrawal
+## * Ujjawal Sharma
+
 ## Abstract:
 ![forest fire image](https://github.com/ujjawalece/ForestFireFighter/blob/master/forestfireimg.jpeg)
 
