@@ -34,11 +34,11 @@ Then the images sent by the cameras willl be processed and searched for any fire
 
 * Firstly we have to detect fire. So, for detecting fire we will take input from camera and process that image. In our project we have placed the camera at a high place and we are getting top view of our forest. Fire contour will we something like below shown in photo.
 
-![fire contour](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire%20Contour%20Image.jpeg)
+![fire](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire.png)
 
 * **Note-** In our simulation we have used orange colour plate to demonstrate fire and and green colour shows forest.
 
-![firecontour](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire%20Contour%20Image.jpeg)
+![firecontour](https://github.com/ujjawalece/ForestFireFighter/blob/master/firecontour.jpg)
 
 * After getting the contour we will find it location.
 
