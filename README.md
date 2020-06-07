@@ -36,7 +36,22 @@ Then the images sent by the cameras willl be processed and searched for any fire
 
 ![fire contour](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire%20Contour%20Image.jpeg)
 
-* 
+* **Note-** In our simulation we have used orange colour plate to demonstrate fire and and green colour shows forest.
+
+![fire](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire.png)
+
+* After getting the contour we will find it location.
+
+### Extinguishing Fire-
+
+* For extinguishing fire we are uing a drone which which will automatically go to the fire spot and will extinguish it.
+
+![drone](https://github.com/ujjawalece/ForestFireFighter/blob/master/drone.jpeg)
+
+* We already have the cordinates of firespot(s) now we want to navigate our drone to that spot. For navigating drone we should know the cordinates of drne also hich can we easily done by using GPS devices. Once we have cordinates of both drone and fire spot our drone can navigate to the required spot.
+
+**Note-** For our simulating purpose we have find a vector which is pointig toward firespot from drone postion. And then have we applied a force in that direction until our drone reached above fire spot.
+
 
 ![flowchart](https://github.com/ujjawalece/ForestFireFighter/blob/master/Flow%20chart.png)
 
