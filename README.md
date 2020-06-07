@@ -63,13 +63,15 @@ Then the images sent by the cameras willl be processed and searched for any fire
 * You can see whole **python code** of our project [here](https://github.com/ujjawalece/ForestFireFighter/blob/master/ForestFireFighter.py).
 * Some video of our project simulation are attached below-
 * [**Video_1**]()
-* [**Video_2**(quick view)]
+* [**Video_2**(quick view)]()
 
 
 ## Conclusion:
 
 This project can we broadly divided into two parts, first one is detecting fire and second one is an automatic system which will extinguish it.
-For detecting fire we use opencv, which is a very good approach, but yet there are some limitations in this as we use are using cameras 
+For detecting fire we use opencv, which is a very good approach, but yet there are some limitations in this as we use are using cameras so sometimes like in foggy climate the range of camera can we reduce to very little diatance. Hence we should use fog resistance cameras.
+For extinguishing fire in our simulation we have used a drone to extinguish fire but the capacity of drone to carry fire extinguishing substance are less. So they can we less effective in controlling the spreading fire which can cause a great trouble. So, we should focus on soe system which is more effective in extinguishing fire like a fire extinnguishinf helicopter iwhich is being used by human to control fost fire. But, our aim is to make an automatic version oof something like this, which is really a challlenging task.
+Yet,our
 
 
 
