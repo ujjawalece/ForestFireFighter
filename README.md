@@ -30,6 +30,16 @@ Then the images sent by the cameras willl be processed and searched for any fire
 
 ## Key Concepts used:
 
+### Detecting Fire-
+
+* Firstly we will have to detect fire. So, for detecting fire we will take input from camera and process that image. In our project we have placed the camera at a high place and we are getting top view of our forest. Fire contour will we something like below shown in photo.
+
+![fire contour](https://github.com/ujjawalece/ForestFireFighter/blob/master/Fire%20Contour%20Image.jpeg)
+
+* 
+
+![flowchart](https://github.com/ujjawalece/ForestFireFighter/blob/master/Flow%20chart.png)
+
 
 ## Conclusion:
 
