@@ -53,7 +53,7 @@ Then the images sent by the cameras will be processed and searched for any fire 
 
 **Note-** For our simulating purpose we have find a vector which is pointig toward firespot from drone postion. And then we have applied a force in that direction until our drone reached above fire spot. But in real life some different concepts of aerodynamic is used to fly a drone and it is not a hard job to do that.
 
-* Once our drone reached the fire spot it will **switch on its fire extinguishing systems**(it will throw water or some fire extinguishing substances on fire spot). Below image shows how our drone is extinguishing fire.
+* Once our drone reached the fire spot it will **switch ON it's fire extinguishing systems**(it will throw water or some fire extinguishing substances on fire spot). Below image shows how our drone is extinguishing fire.
 
 ![extinguishing](https://github.com/ujjawalece/ForestFireFighter/blob/master/extinguishing.png)
 
