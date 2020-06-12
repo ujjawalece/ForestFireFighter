@@ -69,9 +69,9 @@ Then the images sent by the cameras will be processed and searched for any fire 
 
 ### Simulation:
 
-* Some videos of our **project simulation** are attached below-
-* * [**Video_1**](https://drive.google.com/file/d/1OpFGvZW1gKkTU-g1vixThIy_qL_uqXqy/view?usp=sharing)
-* * [**Video_2**(quick view)](https://drive.google.com/file/d/1VcxgkeSNZKo-gBvwXggBNgG123JWE7tn/view?usp=sharing)
+Some videos of our **project simulation** are attached below-
+* [**Video_1**](https://drive.google.com/file/d/1OpFGvZW1gKkTU-g1vixThIy_qL_uqXqy/view?usp=sharing)
+* [**Video_2**(quick view)](https://drive.google.com/file/d/1VcxgkeSNZKo-gBvwXggBNgG123JWE7tn/view?usp=sharing)
 
 
 ## Conclusion:
