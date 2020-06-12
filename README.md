@@ -63,7 +63,12 @@ Then the images sent by the cameras will be processed and searched for any fire 
 
 ![flowchart](https://github.com/ujjawalece/ForestFireFighter/blob/master/Flow%20chart.png)
 
+### Python Code:
+
 * You can see whole **python code** of our project [here](https://github.com/ujjawalece/ForestFireFighter/blob/master/ForestFireFighter.py).
+
+### Simulation:
+
 * Some videos of our **project simulation** are attached below-
 * [**Video_1**](https://drive.google.com/file/d/1OpFGvZW1gKkTU-g1vixThIy_qL_uqXqy/view?usp=sharing)
 * [**Video_2**(quick view)](https://drive.google.com/file/d/1VcxgkeSNZKo-gBvwXggBNgG123JWE7tn/view?usp=sharing)
